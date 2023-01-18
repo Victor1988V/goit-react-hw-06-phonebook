@@ -27,7 +27,7 @@ export const StyledLI = styled.li`
     &:hover,
     &:focus {
       background-color: transparent;
-      color: inherit;
+      color: black;
     }
   }
 `;

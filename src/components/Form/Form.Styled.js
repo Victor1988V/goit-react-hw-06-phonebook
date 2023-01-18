@@ -43,7 +43,7 @@ export const StyledForm = styled.form`
     &:hover,
     &:focus {
       background-color: transparent;
-      color: inherit;
+      color: black;
     }
   }
 `;
